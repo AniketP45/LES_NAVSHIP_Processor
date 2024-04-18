@@ -1,0 +1,8 @@
+D:\Work\HTTPRoutines\HTTPRoutines\bin\Debug\HTTPRoutines.dll
+D:\Work\HTTPRoutines\HTTPRoutines\bin\Debug\HTTPRoutines.pdb
+D:\Work\HTTPRoutines\HTTPRoutines\bin\Debug\HtmlAgilityPack.dll
+D:\Work\HTTPRoutines\HTTPRoutines\bin\Debug\SautinSoft.PdfVision.dll
+D:\Work\HTTPRoutines\HTTPRoutines\bin\Debug\HtmlAgilityPack.pdb
+D:\Work\HTTPRoutines\HTTPRoutines\bin\Debug\HtmlAgilityPack.xml
+D:\Work\HTTPRoutines\HTTPRoutines\obj\Debug\HTTPRoutines.dll
+D:\Work\HTTPRoutines\HTTPRoutines\obj\Debug\HTTPRoutines.pdb

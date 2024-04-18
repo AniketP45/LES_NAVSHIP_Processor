@@ -1,0 +1,2 @@
+C:\2-NP\LES_NAVSHIP_Processor\LES_NAVSHIP_Routine\obj\Debug\LES_NAVSHIP_Routine.csproj.AssemblyReference.cache
+C:\2-NP\LES_NAVSHIP_Processor\LES_NAVSHIP_Routine\obj\Debug\LES_NAVSHIP_Routine.csproj.CoreCompileInputs.cache
